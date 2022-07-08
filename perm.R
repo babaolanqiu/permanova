@@ -9,7 +9,7 @@ otu <-
     header = T,
     row.names = 1,
     quote = ""
-  )
+  ) 
 group <-
   read.table(
     file = "./group_info.tsv",
